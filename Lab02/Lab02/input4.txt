@@ -1,0 +1,20 @@
+[
+  {
+    "FullName": "Nguyen Van A",
+    "StudentId": 25520217,
+    "Phone": "0912345678",
+    "Course1": 8,
+    "Course2": 9,
+    "Course3": 10,
+    "Average": 0
+  },
+  {
+    "FullName": "Tran Thi B",
+    "StudentId": 25520218,
+    "Phone": "0987654321",
+    "Course1": 7,
+    "Course2": 8,
+    "Course3": 8,
+    "Average": 0
+  }
+]
